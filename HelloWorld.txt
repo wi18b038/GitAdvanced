@@ -1,4 +1,5 @@
 Konflikt 1
+Konflikt 2
 Hello World Version 1
 Version 2
 Konflikt 1
